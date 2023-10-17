@@ -8,3 +8,4 @@
 ## 2DactionGame
 制作中のゲーム
 ![Videotogif (2)](https://github.com/nakaji-nandaina/Unity2DActionGame/assets/65334953/f1b9c769-9cc9-4b8a-9dda-12b78d303c15)
+![くそ雑魚コーダー](https://atcoder.jp/users/nandaina)
