@@ -1,6 +1,6 @@
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20nakaji-nandaina)](https://github.com/nakaji-nandaina) 
-<a href="https://atcoder.jp/users/nandaina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dainainandaina" height="30" width="40" /></a>
-<a href="https://twitter.com/dainainandaina" target="blank"><img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="nandaina" height="30" width="40"/></a> 
+<a href="https://atcoder.jp/users/nandaina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dainainandaina" height="50" width="70" /></a>
+<a href="https://twitter.com/dainainandaina" target="blank"><img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="nandaina" height="50" width="70"/></a> 
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakaji-nandaina&theme=2077)
