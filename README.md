@@ -1,5 +1,5 @@
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20nakaji-nandaina)](https://github.com/nakaji-nandaina)
-<a href="https://twitter.com/dainainainandaina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
+<a href="https://twitter.com/dainainanandaina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakaji-nandaina&theme=2077)
 [![trophy](https://github-profile-trophy.vercel.app/?username=xxxxxxxxxx&theme=onedark)](https://github-profile-trophy.vercel.app/?username=nakaji-nandaina&theme=tokyonight)
