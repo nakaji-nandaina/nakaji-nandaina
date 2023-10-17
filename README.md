@@ -1,4 +1,4 @@
-## about Nandaina
+## Nandaina
 <a href="https://atcoder.jp/users/nandaina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dainainandaina" height="50" width="70" /></a>
 <a href="https://twitter.com/dainainandaina" target="blank"><img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="nandaina" height="50" width="70"/></a> 
 <br><br><br>
