@@ -1,4 +1,4 @@
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20xxxxxxxxxx)](https://github.com/nakaji-nandaina)
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20nakaji-nandaina)](https://github.com/nakaji-nandaina)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakaji-nandaina&theme=2077)
 [![trophy](https://github-profile-trophy.vercel.app/?username=xxxxxxxxxx&theme=onedark)](https://github-profile-trophy.vercel.app/?username=nakaji-nandaina&theme=tokyonight)
